@@ -68,6 +68,3 @@ Développer un programme en Python permettant de générer des œuvres artistiqu
 - Explication concise de l’interface graphique.  
 - Exemples d’œuvres créées avec le programme.
 
---- 
-
-Let me know if further edits or refinements are needed!
